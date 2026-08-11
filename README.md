@@ -44,7 +44,7 @@ Este repositorio independiente sirve como **manual de estandarización visual y 
 
 ```bash
 # 1. Clonar este proyecto de guía de estilo
-git clone https://github.com/gruizmetasolutions-cpu/ux-ui-warhorse-official.git
+git clone https://github.com/gruizmetasolutions-cpu/warhorse-web-ux-ui-official.git
 cd ux-ui-warhorse-official
 
 # 2. Instalar dependencias
